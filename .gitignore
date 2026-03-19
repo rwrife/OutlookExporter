@@ -1,0 +1,21 @@
+.vs/
+bin/
+obj/
+
+# Build and publish output
+publish/
+artifacts/
+
+# User-specific files
+*.user
+*.rsuser
+*.suo
+
+# Logs and temp files
+*.log
+*.tmp
+*.temp
+
+# Exported message data
+exported-json/
+**/exported-json/
